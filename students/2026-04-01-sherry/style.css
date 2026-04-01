@@ -1,0 +1,15 @@
+body {
+    background-color: #ebebeb;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-green {
+    color:  green;
+}
