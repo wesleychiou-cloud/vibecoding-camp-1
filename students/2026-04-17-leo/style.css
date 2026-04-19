@@ -1,0 +1,23 @@
+body {
+  background: #4d4d4d;
+  padding: 40px;
+}
+h1 {
+  color: #e1a330;
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+  overflow: hidden;
+  max-width: 300px;
+  margin: 0 auto;
+  display: block;
+}
+.intro {
+  color: #ffffff;
+  text-align: center;
+  max-width: 600px;
+  margin: 24px auto;
+  line-height: 1.6;
+  font-size: 1.1rem;
+}
